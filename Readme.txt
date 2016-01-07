@@ -1,3 +1,5 @@
+2016/01/07
+	Upgrade jar lib to 2.0.4, solve ouput stream problem when read data from card.
 2015/09/18
 	Fixed bug for Android 5 platform support
 2014/10/08
